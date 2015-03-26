@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About/CV
-permalink: /about/
+permalink: /cv/
 ---
 
 ### Алексей Скоробогатый
