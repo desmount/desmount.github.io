@@ -70,4 +70,15 @@ permalink: /cv/
 Белгородский государственный технологический университет им. В.Г. Шухова. Институт информационных технологий и управляющих систем. Кафедра информационных технологий.
 *Специальность*: информационные системы и технологии.
 
+#### Контакты
+
+- Skype: [desmount.ag](skype:desmount.ag?chat)
+- Tel.: [+7 (906) 600-26-76](tel:+79066002676)
+- Email: [desperate.ag@gmail.com](mailto:desperate.ag@gmail.com)
+- Facebook: [desmount](facebook.com/desmount)
+- Vkontakte: [desmountru](vk.com/desmountru)
+- Twitter: [desmount](twitter.com/desmount)
+
+
+
 
