@@ -4,7 +4,7 @@ email: desperate.ag@gmail.com
 name: Aleksei Skorobogatyi
 description: > # this means to ignore newlines until "baseurl:"
   Страница веб-разработчика, который мечтает сделать мир лучше.
-  Или некоторую часть, но лучше. Хоть что-то, но лучше.
+  Или некоторую его часть, но лучше. Хоть что-то, но лучше.
   Самое время начать с себя.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://desmount.github.io" # the base hostname & protocol for your site
