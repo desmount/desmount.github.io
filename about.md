@@ -3,7 +3,8 @@ layout: page
 title: About/CV
 permalink: /cv/
 ---
-![](photo.png)
+![](/photo.png)
+
 ### Алексей Скоробогатый
 — разработчик информационных систем.
 
