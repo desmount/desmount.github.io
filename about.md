@@ -76,7 +76,7 @@ permalink: /cv/
 #### Контакты
 
 - Skype: [desmount.ag](skype:desmount.ag?chat)
-- Tel.: [+7 (906) 600-26-76](tel:+79066002676)
+- Tel.: [+7 (999) 988 9186](tel:+79999889186)
 - Email: [desperate.ag@gmail.com](mailto:desperate.ag@gmail.com)
 - Facebook: [desmount](https://facebook.com/desmount)
 - Vkontakte: [desmountru](https://vk.com/desmountru)
