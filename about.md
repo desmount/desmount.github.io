@@ -75,12 +75,10 @@ permalink: /cv/
 
 #### Контакты
 
+- Telegram: [desmount](https://telegram.me/desmount)
 - Skype: [desmount.ag](skype:desmount.ag?chat)
 - Tel.: [+7 (999) 988 9186](tel:+79999889186)
 - Email: [desperate.ag@gmail.com](mailto:desperate.ag@gmail.com)
-- Facebook: [desmount](https://facebook.com/desmount)
-- Vkontakte: [desmountru](https://vk.com/desmountru)
-- Twitter: [desmount](https://twitter.com/desmount)
 
 
 
