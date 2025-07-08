@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /cv/
 ---
-[Download pdf](/cv-aleksey-skorobogaty.pdf)
+<a href="/cv-aleksey-skorobogaty.pdf" download>Download PDF</a>
 
 Head of Engineering | System Architecture | Platform Product Management
 
