@@ -9,10 +9,10 @@ name: Aleksey Skorobogaty
 author: Aleksey Skorobogaty
 
 # Short bio or description (displayed in the header)
-description: CV Page
+description: I care about systems — so people can too.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/profile.png
+avatar: /images/profile.jpg
 
 #
 # Flags below are optional
@@ -21,15 +21,16 @@ avatar: /images/profile.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: aleksey.skorobogaty.pm.me
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: desmount
   instagram:
-  linkedin: 
+  linkedin: aleksey-skorobogaty
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter:
+  bluesky: desmount.bsky.social
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,10 +42,10 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
+google_analytics_ga4: G-XZ2M11TKRX
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
@@ -55,7 +56,7 @@ enforce_ssl: https://desmount.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://desmount.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!

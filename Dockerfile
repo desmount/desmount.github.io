@@ -13,22 +13,12 @@ RUN groupadd -g 1000 vscode && \
     useradd -m -u 1000 -g vscode vscode
 
 # Set the working directory
-WORKDIR /usr/src/app
+WORKDIR /srv/jekyll
 
-# Set permissions for the working directory
-RUN chown -R vscode:vscode /usr/src/app
-
-# Switch to the non-root user
-USER vscode
-
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
+# Copy the current directory contents into the container
+COPY . .
 
 # Install bundler and dependencies
 RUN gem install connection_pool:2.5.0
 RUN gem install bundler:2.3.26
 RUN bundle install
-
-# Command to serve the Jekyll site
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w"]
-
