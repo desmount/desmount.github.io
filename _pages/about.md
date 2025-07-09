@@ -7,12 +7,12 @@ permalink: /about/
 Hey there — I’m Aleksey Skorobogaty, a systems architect with 12+ years in software engineering and 5+ years leading technical teams. I love designing cloud-native systems from the first principles[^1] that teams can operate with confidence.
 
 ### What I Bring
- - Systems-Led Technical Leadership & Strategy
- - Building Learning Organizations & Cumulative Cultures
- - Distributed Systems & Microservices Mastery
+ - Technical Leadership & Strategy
+ - Learning Organization & Cumulative Culture
+ - Distributed Systems & Microservices
  - Message-Driven & Event-Driven Architectures
  - Domain-Driven Design & Data Mesh Expertise
- - Resilience, Scalability, High-Availability Engineering
+ - Resilience, Scalability, High-Availability
  - Advanced Concurrent Golang Programming
  - Pioneering Agentic AI & Context Engineering
 
