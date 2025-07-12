@@ -28,7 +28,7 @@ Hey there — I’m Aleksey Skorobogaty, a systems architect with 12+ years in s
 
 3. Building (or already running) a platform?
 
-    Systems and people are intertwined. Product people understand this. We design feedback loops. We create structures that shape behavior.
+    Systems and people are intertwined. Product people understand this. We design feedback loops. We create structures that shape behavior![^3]
     
     I’d love to step in as a Platform Product Manager for building platform structures — shaping high-performance autonomous teams and aligning vision with the reality of Agentic AI.
 
@@ -50,3 +50,4 @@ Addresed questions so far:
 ---
 [^1]: [The Reactive Principles](https://www.reactiveprinciples.org/_attachments/the-reactive-principles-and-patterns.pdf)
 [^2]: Everything is distributed now — the key to getting it right is remembering that simple fact.
+[^3]: from The Beautiful Mess [blog post about product people](https://open.substack.com/pub/cutlefish/p/a-cagan-critique?selection=f4174b8e-7f5a-46b3-8370-141e41fd9f28&utm_campaign=post-share-selection&utm_medium=web&aspectRatio=square&bgColor=%23FFFFFF&textColor=%23363737)
