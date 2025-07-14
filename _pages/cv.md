@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Resume / CV
 permalink: /cv/
 ---
 <a href="/cv-aleksey-skorobogaty.pdf" download>Download PDF</a>
