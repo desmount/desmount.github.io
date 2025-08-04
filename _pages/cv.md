@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 <a href="/cv-aleksey-skorobogaty.pdf" download>Download PDF</a>
 
-Head of Engineering | System Architecture | Platform Product Management
+CTO | System Architecture | Platform Product Management
 
 ✉️ aleksey.skorobogaty@pm.me | 🌐 [linkedin](https://www.linkedin.com/in/aleksey-skorobogaty/ ) | 🔐 Signal by request
 
@@ -31,7 +31,7 @@ I love designing cloud-native distributed software that teams can operate with c
 **Keywords:**
 DDD · EDA · Data Mesh · Context Engineering · CloudNative · Observability · DevOps · DORA · DevEx · Engineering Strategy
 
-**Looking for:** Platform PM / Architect / Head roles that empower engineering teams to make a difference — by enabling faster, more proactive, high-quality decisions across product and infrastructure.
+**Looking for:** Platform PM / Architect / CTO roles that empower engineering teams to make a difference — by enabling faster, more proactive, high-quality decisions across product and infrastructure.
 
 **Languages**: English – Advanced · Russian – Native.
 
